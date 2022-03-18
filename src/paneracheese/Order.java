@@ -4,7 +4,7 @@ package paneracheese;
 
 public class Order {
     
-    // Mah Attributes
+    // My Attributes
     protected String customerDescription;
     protected String customerName;
     protected String customerTimestamp;
